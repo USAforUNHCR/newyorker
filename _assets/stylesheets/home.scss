@@ -1,1 +1,42 @@
-@import 'variables';
+.intro{
+    width: 100%;
+    text-align: center;
+  & img{
+    margin: auto;
+  }
+}
+
+.flex-body{
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  max-width: 1200px;
+  margin: auto;
+}
+
+.flex-row{
+  display: flex;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.flex-item{
+  margin: 2em;
+}
+
+header{
+  width: 100%;
+  text-align: center;
+  background-color: #84696A;
+}
+
+.sub-footer{
+  height: 50vh;
+}
+
+#content-modal{
+  top: 20vh;
+  max-width: 800px;
+  margin: auto;
+}
