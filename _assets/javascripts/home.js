@@ -40,7 +40,11 @@ function createModal(item){
 }
 
 function introListener(){
-
+  $('.intro').click(function(event){
+    event.preventDefault();
+    debugger;
+    createModal('intro');
+  });
 }
 
 function cloudListener(){
