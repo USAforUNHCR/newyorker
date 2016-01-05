@@ -14,14 +14,16 @@
   margin: auto;
 }
 
-.flex-row{
+.flex-container{
   display: flex;
+  flex-wrap: wrap;
   width: 100%;
   align-items: center;
-  justify-content: center;
-  flex-wrap: wrap;
+  // justify-content: center;
+  
 }
 .flex-item{
+  display: flex;
   margin: 2em;
 }
 

@@ -9,20 +9,13 @@ var content = {
 }
 
 $(document).ready(function(){
-  scrollBottom();
-  cloudListener();
+  introModal();
   bodyListener();
 })
 
 
-function scrollBottom(){
-  $('body').animate({ 
-     scrollTop: $(document).height()},
-     1400,
-    'linear', function(){
-    createModal('intro');
-    }
-  );
+function introModal(){
+  createModal('intro');
 }
 
 function createModal(item){
@@ -55,7 +48,7 @@ function cloudListener(){
 }
 
 function bodyListener(){
-  $('.flex-body').click(function(event){
+  $('.flex-container').click(function(event){
     var target = event.target.closest('.flex-item');
     if(target){
       createModal(target.id);
