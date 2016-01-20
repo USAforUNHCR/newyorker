@@ -1,34 +1,36 @@
 ---
 layout: home
 ---
+<header class="header">
+  <a href="#">What are we doing?</a>
+</header>
 
 <div class="flex-container">
-    <div id="intro" class="flex-item">{% image you_are_here.png %}</div>
-    <div id="clouds" class="flex-item">{% image clouds.png %}</div>
-    <div id="russia" class="flex-item">{% image russia.png %}</div>
-    <div id="asia" class="flex-item">{% image asia.png %}</div>
+    <div id="intro" class="flex-item">{% image you_are_here.jpg %}</div>
+    <div id="clouds" class="flex-item">{% image clouds.jpg %}</div>
+    <div id="russia" class="flex-item">{% image russia.jpg %}</div>
+    <div id="asia" class="flex-item">{% image asia.jpg %}</div>
   
   
-    <div id="western-europe" class="flex-item">{% image western_europe.png %}</div>
-    <div id="eastern-europe" class="flex-item">{% image eastern_europe.png %}</div>
-    <div id="middle-east" class="flex-item">{% image middle_east.png %}</div>
+    <div id="western_europe" class="flex-item">{% image western_europe.jpg %}</div>
+    <div id="eastern_europe" class="flex-item">{% image eastern_europe.jpg %}</div>
+    <div id="middle_east" class="flex-item">{% image middle_east.jpg %}</div>
 
 
-    <div id="paris" class="flex-item">{% image paris.png %}</div>
-    <div id="line" class="flex-item">{% image line_of_humanity.png %}</div>
-    <div id="tank" class="flex-item">{% image tank.png %}</div>
+    <div id="paris" class="flex-item">{% image paris.jpg %}</div>
+    <div id="line" class="flex-item">{% image line.jpg %}</div>
+    <div id="tank" class="flex-item">{% image tank.jpg %}</div>
 
-    <div id="uk" class="flex-item">{% image uk.png %}</div>
-    <div id="camp" class="flex-item">{% image camp.png %}</div>
-    <div id="stadium" class="flex-item">{% image stadium.png %}</div>
-    <div id="mediterranean" class="flex-item">{% image mediterranean.png %}</div>
+    <div id="uk" class="flex-item">{% image uk.jpg %}</div>
+    <div id="camp" class="flex-item">{% image camp.jpg %}</div>
+    <div id="stadium" class="flex-item">{% image stadium.jpg %}</div>
+    <div id="mediterranean" class="flex-item">{% image mediterranean.jpg %}</div>
   
-    <div id="atlantic-1" class="flex-item">{% image atlantic_1.png %}</div>
-    <div id="africa" class="flex-item">{% image africa.png %}</div>
+    <div id="atlantic" class="flex-item">{% image raft.jpg %}</div>
+    <div id="africa" class="flex-item">{% image africa.jpg %}</div>
   
-    <div id="atlantic-2" class="flex-item">{% image atlantic_2.png %}</div>
-    <div id="mexico" class="flex-item">{% image mexico.png %}</div>
-    <div id="central-america" class="flex-item">{% image central_america.png %}</div>
+    <div id="mexico" class="flex-item">{% image mexico.jpg %}</div>
+    <div id="central_america" class="flex-item">{% image central_america.jpg %}</div>
   
 </div>
 
@@ -63,3 +65,35 @@ layout: home
     </div>
   </div>
 </div>
+
+<div class="modal fade" id="about-modal">
+  <div class="moda-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+        <h4 class="modal-title"></h4>
+      </div>
+      <div class="modal-body">
+        <p class="body-content"></p>
+          <div class="modal-form">
+          <p>Be a part of the refugee conversation</p>
+          <form class="signup">
+            <fieldset class="form-group">
+              <label for="email">Your Email</label>
+              <input class="form-control" type="email" required placeholder="enter email">
+            </fieldset>
+            <button type="submit" class="btn btn-primary">Submit</button>
+          </form>
+        </div>
+      </div>
+      <div class="modal-footer">
+      </div>
+    </div>
+  </div>
+</div>
+
+<footer>
+  {% image U4Ulogo.png %}
+</footer>

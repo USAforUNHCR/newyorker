@@ -1,13 +1,3 @@
-var content = {
-  intro: {
-    title: "This is the intro title",
-    content: 'Here is some intro content',
-  },
-  clouds: { title: "This is the clouds title",
-            content: "This is the clouds content"
-          }
-}
-
 $(document).ready(function(){
   introModal();
   bodyListener();
@@ -23,11 +13,6 @@ function createModal(item){
   if(content[item]){
     contentModal.find('.modal-title').html(content[item].title);
     contentModal.find('.body-content').html(content[item].content);
-  }
-  // placeholder until all content is added
-  else {
-    contentModal.find('.modal-title').html('This is the ' + item + ' title' );
-    contentModal.find('.body-content').html('This is the ' + item + ' content');
   }
   contentModal.modal('show');
 }
