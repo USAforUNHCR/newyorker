@@ -1,11 +1,12 @@
 $(document).ready(function(){
   introModal();
   bodyListener();
+  formListener();
 })
 
 
 function introModal(){
-  createModal('intro');
+  $('#about-modal').modal('show');
 }
 
 function createModal(item){
@@ -16,6 +17,7 @@ function createModal(item){
     var imageUrl = $('#' + item).find('img').attr('src');
     contentModal.find('.thumb-image').attr('src', imageUrl);
   }
+
   contentModal.modal('show');
 }
 
@@ -40,4 +42,8 @@ function bodyListener(){
       createModal(target.id);
     }
   })
+}
+
+function formListener(){
+  var form = $('')
 }
