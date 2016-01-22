@@ -13,6 +13,8 @@ function createModal(item){
   if(content[item]){
     contentModal.find('.modal-title').html(content[item].title);
     contentModal.find('.body-content').html(content[item].content);
+    var imageUrl = $('#' + item).find('img').attr('src');
+    contentModal.find('.thumb-image').attr('src', imageUrl);
   }
   contentModal.modal('show');
 }
@@ -20,7 +22,6 @@ function createModal(item){
 function introListener(){
   $('.intro').click(function(event){
     event.preventDefault();
-    debugger;
     createModal('intro');
   });
 }

@@ -65,6 +65,25 @@ header{
   margin: auto;
 }
 
+.thumb-image{
+  max-height: 150px;
+  max-width: 150px;
+  margin-right: 1em;
+  margin-left: 1.5em;
+  float: right;
+}
+
+.modal-form{
+  clear: both;
+  width: 50%;
+  margin: auto;
+  margin-top: 2em;
+  & .btn-primary{
+    margin: auto;
+    display: block;
+  }
+}
+
 footer{
   position: fixed;
   width: 100%;
