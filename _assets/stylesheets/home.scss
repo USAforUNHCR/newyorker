@@ -6,8 +6,15 @@
   }
 }
 
+.map-image{
+  display: block;
+  width: 300px;
+  margin: auto;
+}
+
 .flex-body{
   display: flex;
+  display: -webkit-flex;
   flex-wrap: wrap;
   align-items: center;
   max-width: 1200px;
@@ -16,7 +23,9 @@
 
 .flex-container{
   display: flex;
+  display: -webkit-flex;
   flex-wrap: wrap;
+  -webkit-flex-wrap: wrap;
   width: 99%;
   margin: auto;
   align-items: center;
@@ -63,6 +72,7 @@ header{
   font-family: serif;
   font-size: 3em;
   & a{
+    color: white;
     &:visited{
       color: white;
     }
@@ -106,6 +116,21 @@ header{
   & .btn-primary{
     margin: auto;
     display: block;
+  }
+}
+
+.social-icons{
+  font-size: 2em;
+  & .social-thanks{
+    text-align: center;
+  }
+  & .social-links{
+    text-align: center;
+    display: block;
+    & .fa{
+      text-align: center;
+      margin: 0.1em;
+    }
   }
 }
 

@@ -50,16 +50,29 @@ layout: home
           <p>Enter your email and the email of a friend to share this content</p>
           <form class="signup">
             <fieldset class="form-group">
+              <label for="name">Your Name</label>
+              <input class="form-control" type="text" name="name" required placeholder="enter your name">
+            </fieldset>
+            <fieldset class="form-group">
               <label for="email">Your Email</label>
-              <input class="form-control" type="email" required placeholder="enter email">
+              <input class="form-control" type="email" name="email" required placeholder="enter email">
             </fieldset>
             <fieldset class="form-group">
               <label for="email1">Friend's email</label>
-              <input class="form-control" type="email" required placeholder="enter email">
+              <input class="form-control" type="email" name="email1" required placeholder="enter email">
             </fieldset>
             <button type="submit" class="btn btn-primary">Submit</button>
           </form>
         </div>
+        <div class="social-icons">
+            <p class="social-thanks">
+              Thanks for your interest.<br>Use the links below to share to your network:
+            </p>
+            <div class="social-links">
+              <a href="google.com" target="_blank"><i class="fa fa-twitter"></i></a>
+              <a href="google.com" target="_blank"><i class="fa fa-facebook"></i></a>
+            </div>
+          </div>
       </div>
       <div class="modal-footer">
       </div>
@@ -81,7 +94,8 @@ layout: home
           Calling back to Saul Steinberg’s famous March 29, 1976 New Yorker cover “View of the World from 9th Avenue,” this ad illustrates that the challenges faced in other parts of the world are much closer than they may seem. The refugee crisis is a global one -- it affects us all. As Americans, let’s stand for continued U.S. leadership. Add your name today.
           <br><br>
           Click on the images to learn about other parts of the global refugee crisis.
-        </p>  
+        </p>
+        <image class="map-image" src="/images/map.jpg">
       </div>
       <div class="modal-footer">
       </div>
