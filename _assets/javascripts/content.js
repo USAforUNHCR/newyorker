@@ -9,7 +9,7 @@ var content = {
           },
 
   russia: { title: 'Russia',
-            content: 'Russia is one of 77 countries around the world where LGBTI citizens face state-sponsored discrimination, and often violence and persecution. So-called “anti-propaganda” laws in Russia violate basic human rights such as the right to liberty, freedom of association, freedom of expression and information as well as freedom of the press, according to <a href="https://drive.google.com/file/d/0B28qUX9jREdIUVRCakwxWGhUVFE/view" target="_blank">(ILGA study)research</a> by the International Lesbian, Gay, Bisexual, Trans and Intersex Association (ILGA). Worse, Russia’s discrimination is inspiring anti-LGBTI laws elsewhere, mainly in former Soviet countries in Eastern Europe, creating what ILGA study authors Aengus Carroll and Lucas Paoli call an “ideological wall” separating east from west.'
+            content: 'Russia is one of 77 countries around the world where LGBTI citizens face state-sponsored discrimination, and often violence and persecution. So-called “anti-propaganda” laws in Russia violate basic human rights such as the right to liberty, freedom of association, freedom of expression and information as well as freedom of the press, according to <a href="https://drive.google.com/file/d/0B28qUX9jREdIUVRCakwxWGhUVFE/view" target="_blank">research</a> by the International Lesbian, Gay, Bisexual, Trans and Intersex Association (ILGA). Worse, Russia’s discrimination is inspiring anti-LGBTI laws elsewhere, mainly in former Soviet countries in Eastern Europe, creating what ILGA study authors Aengus Carroll and Lucas Paoli call an “ideological wall” separating east from west.'
 
           },
 
@@ -41,7 +41,7 @@ var content = {
           },
 
   uk: { title: 'United Kingdom',
-        content: 'A London ad agency created this video for Save the Children. It shows a year in life of a Syrian girl in one-second clips, as she is forced to leave behind her home, school, friends and family to flee the violence tearing her hometown apart: <a href="https://www.youtube.com/watch?v=RBQ-IoHfimQ" target="_blank">Most Shocking Second a Day Video</a>'
+        content: 'A London ad agency created <a href="https://www.youtube.com/watch?v=RBQ-IoHfimQ" target="_blank">this</a> video for Save the Children. It shows a year in life of a Syrian girl in one-second clips, as she is forced to leave behind her home, school, friends and family to flee the violence tearing her hometown apart.'
       },
 
   camp: { title: 'Refugee Camps',
@@ -60,11 +60,11 @@ var content = {
           },
 
   africa: {title: 'Africa',
-            content: 'In the Central African Republic, drought, starvation, poverty, lack of medicines and general issues of displacement due to the country’s violent conflict mean that more than half the population falls under UNHCR’s mandate to help refugees and displaced people.<br><br>Kenya is home to the world’s largest refugee camp, Dadaab, which opened in 1991 to house Somali refugees and now houses more than 500,000 people. Ben Rawlence’s new book, <a href="http://www.npr.org/2016/01/04/461891627/author-profiles-the-traumatized-people-living-in-the-worlds-largest-refugee-camp" target="_blank">City of Thorns</a>, shares nine Dadaab refugees’ stories'
+            content: 'In the Central African Republic, drought, starvation, poverty, lack of medicines and general issues of displacement due to the country’s violent conflict mean that more than half the population falls under UNHCR’s mandate to help refugees and displaced people.<br><br>Kenya is home to the world’s largest refugee camp, Dadaab, which opened in 1991 to house Somali refugees and now houses more than 500,000 people. Ben Rawlence’s new book, <a href="http://www.npr.org/2016/01/04/461891627/author-profiles-the-traumatized-people-living-in-the-worlds-largest-refugee-camp" target="_blank">City of Thorns</a>, shares nine Dadaab refugees’ stories.'
           },
 
   mexico: {title: 'Mexico',
-            content: "Since 2008, the number of women from certain parts of Mexico and Central America’s Northern Triangle region fleeing gang warfare and persecution to seek asylum in the United States has increased five times over. Mexican women seeking asylum in the United States who were interviewed by UNHCR, spoke of pervasive and systemic levels of violence, connected to increasing territorial influence of criminal armed groups from which it was nearly impossible to find reprieve. Dramatically escalating gang violence, police abuse and corruption, family and friends kidnapped and killed, children endangered – these are only some of the injustices these women endured. Listen to <a href='https://soundcloud.com/womenontherun/nellys-story' target='_blank'> Nelly’s story</a> and other women's stories <a href='http://womenonthe.run' target='_blank'>here</a>"
+            content: "Since 2008, the number of women from certain parts of Mexico and Central America’s Northern Triangle region fleeing gang warfare and persecution to seek asylum in the United States has increased five times over. Mexican women seeking asylum in the United States who were interviewed by UNHCR, spoke of pervasive and systemic levels of violence, connected to increasing territorial influence of criminal armed groups from which it was nearly impossible to find reprieve. Dramatically escalating gang violence, police abuse and corruption, family and friends kidnapped and killed, children endangered – these are only some of the injustices these women endured. Listen to their stories <a href='http://womenonthe.run' target='_blank'>here</a>."
             },
 
   central_america: {title: 'Central America',
