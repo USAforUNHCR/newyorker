@@ -2,7 +2,7 @@
 
 var gw = new Groundwork({
   'api_url': 'https://api.thegroundwork.com',
-  'oauth_client_id': 'pub-un-test.forced-to-flee-int-D.TZUr78VxrMoATcZhlXyr41zUx855kiPID0DKhY5GCSA8.3dajo6b6OfyHjS4efuyJ7RvkRbo7Zi8k8HmVWFw'
+  'oauth_client_id': 'pub-un.forcedtoflee-int-dGXTeBirHmvyimD4mk5NOXyG5lpUfn7FF3TZCmFFgRV2yPx4Ttu_Pw6JIp89t83lKIh3pA0KpuqBbA3ZmNnopQ'
 });
 
 function sendData(data){

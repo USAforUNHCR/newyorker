@@ -1,7 +1,7 @@
 var content = {
   intro: {
     title: "YOU ARE HERE",
-    content: 'HHere, we don’t think about what would happen if suddenly it wasn’t safe to stay. Where would you go? What would you take with you? From where we stand, these problems can seem far away, but 60 million people around the world have been forced to make those decisions. The refugee crisis is a global one -- it affects us all. As Americans, let’s stand for continued U.S. leadership. Add your name today.',
+    content: 'Here, we don’t think about what would happen if suddenly it wasn’t safe to stay. Where would you go? What would you take with you? From where we stand, these problems can seem far away, but 60 million people around the world have been forced to make those decisions. The refugee crisis is a global one -- it affects us all. As Americans, let’s stand for continued U.S. leadership. Add your name today.',
           },
 
   clouds: { title: "Clouds",
