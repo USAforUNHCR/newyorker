@@ -1,7 +1,7 @@
 var content = {
   intro: {
     title: "YOU ARE HERE",
-    content: 'Here, we don’t think about what would happen if suddenly it wasn’t safe to stay. Where would you go? What would you take with you? From where we stand, these problems -- faced by more than 60 million people around the world -- can seem far away. But the refugee crisis is a global one -- it affects us all. As Americans, let’s stand for continued U.S. leadership. Add your name today.',
+    content: 'HHere, we don’t think about what would happen if suddenly it wasn’t safe to stay. Where would you go? What would you take with you? From where we stand, these problems can seem far away, but 60 million people around the world have been forced to make those decisions. The refugee crisis is a global one -- it affects us all. As Americans, let’s stand for continued U.S. leadership. Add your name today.',
           },
 
   clouds: { title: "Clouds",
@@ -32,7 +32,7 @@ var content = {
             content: 'In November 2015, Paris suffered the worst terror attack in Europe in more than 10 years. Many were quick to blame refugees and call for tightened security or even border closings, especially when a Syrian passport -- which turned out to be fake -- was found near one of the terrorists. This xenophobic scapegoating, employed by European and American politicians alike, is based on falsehood. The terror Paris experienced is exactly what Syrian refugees are fleeing. It’s times like these that we must hold most strongly to our values of helping the world’s most vulnerable, not blame the victims.'
           },
 
-  line: { title: 'Line of Humanity',
+  line: { title: 'Humanity at wait',
           content: 'Refugees have three options when it comes to long-term solutions: They can stay in the country to which they fled, living in temporary refugee camps. They can return home once it is safe to do so. Or they can apply for resettlement in a third country. While most refugees would prefer to return home, it takes an average of 17 years for them to make it back. Yet, only a tiny fraction apply for resettlement in a third country -- about 150,000 of the 4.2 million Syrian refugees have applied. Those who apply in the U.S. -- a number totaling only about 22,000 in the past year -- must wait an average of 18 to 24 months for their application to be processed. The process includes thorough security vetting and extensive interviews with government and security officials.'
         },
 
@@ -64,7 +64,7 @@ var content = {
           },
 
   mexico: {title: 'Mexico',
-            content: "Since 2008, the number of women from certain parts of Mexico and Central America’s Northern Triangle region fleeing gang warfare and persecution to seek asylum in the United States has increased five times over. Mexican women seeking asylum in the United States interviewed by UNHCR, spoke of pervasive and systemic levels of violence, connected to increasing territorial influence of criminal armed groups from which it was nearly impossible to find reprieve. Dramatically escalating gang violence, police abuse and corruption, family and friends kidnapped and killed, children endangered – these are only some of the injustices these women endured. Listen to <a href='https://soundcloud.com/womenontherun/nellys-story' target='_blank' Nelly’s story and other women's stories <a href='http://womenonthe.run' target='_blank'>here</a>"
+            content: "Since 2008, the number of women from certain parts of Mexico and Central America’s Northern Triangle region fleeing gang warfare and persecution to seek asylum in the United States has increased five times over. Mexican women seeking asylum in the United States who were interviewed by UNHCR, spoke of pervasive and systemic levels of violence, connected to increasing territorial influence of criminal armed groups from which it was nearly impossible to find reprieve. Dramatically escalating gang violence, police abuse and corruption, family and friends kidnapped and killed, children endangered – these are only some of the injustices these women endured. Listen to <a href='https://soundcloud.com/womenontherun/nellys-story' target='_blank' Nelly’s story and other women's stories <a href='http://womenonthe.run' target='_blank'>here</a>"
             },
 
   central_america: {title: 'Central America',

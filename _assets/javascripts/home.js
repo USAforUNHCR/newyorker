@@ -73,8 +73,7 @@ function formListener(){
     data.email = form.find('[name="email"]').val();
     data.tags.email1 = form.find('[name="email1"]').val();
     data.source = "New Yorker " + $('.modal-title').html();
-
-    console.log(data);
+    sendData(data);
     $('.modal-form').hide();
     $('.social-icons').show();
   });
