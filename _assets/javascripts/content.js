@@ -45,7 +45,7 @@ var content = {
       },
 
   camp: { title: 'Refugee Camps',
-          content: 'Refugee camps are built as temporary shelters, but many refugees now find themselves living in camps for years. Many camps are far over capacity, forcing some to put a hold on accepting new refugees. Take a tour of the Domiz refugee camp in northern Iraq. Built in 2012 to house 38,000 Syrian Kurdish refugees, Domiz has more than 69,000 residents living in an area of less than half a square mile. That’s more than five times the population density of New York City. <a href="http://refugeerepublic.submarinechannel.com/" target="_blank">Refugee Republic</a>'
+          content: 'Refugee camps are built as temporary shelters, but many refugees now find themselves living in camps for years. Many camps are far over capacity, forcing some to put a hold on accepting new refugees. <a href="http://refugeerepublic.submarinechannel.com/" target="_blank">Take a tour of the Domiz refugee camp</a> in northern Iraq. Built in 2012 to house 38,000 Syrian Kurdish refugees, Domiz has more than 69,000 residents living in an area of less than half a square mile. That’s more than five times the population density of New York City.'
         },
 
   stadium: {title: 'Refugees in Sports',
@@ -64,7 +64,7 @@ var content = {
           },
 
   mexico: {title: 'Mexico',
-            content: "Since 2008, the number of women from certain parts of Mexico and Central America’s Northern Triangle region fleeing gang warfare and persecution to seek asylum in the United States has increased five times over. Mexican women seeking asylum in the United States who were interviewed by UNHCR, spoke of pervasive and systemic levels of violence, connected to increasing territorial influence of criminal armed groups from which it was nearly impossible to find reprieve. Dramatically escalating gang violence, police abuse and corruption, family and friends kidnapped and killed, children endangered – these are only some of the injustices these women endured. Listen to <a href='https://soundcloud.com/womenontherun/nellys-story' target='_blank' Nelly’s story and other women's stories <a href='http://womenonthe.run' target='_blank'>here</a>"
+            content: "Since 2008, the number of women from certain parts of Mexico and Central America’s Northern Triangle region fleeing gang warfare and persecution to seek asylum in the United States has increased five times over. Mexican women seeking asylum in the United States who were interviewed by UNHCR, spoke of pervasive and systemic levels of violence, connected to increasing territorial influence of criminal armed groups from which it was nearly impossible to find reprieve. Dramatically escalating gang violence, police abuse and corruption, family and friends kidnapped and killed, children endangered – these are only some of the injustices these women endured. Listen to <a href='https://soundcloud.com/womenontherun/nellys-story' target='_blank'> Nelly’s story</a> and other women's stories <a href='http://womenonthe.run' target='_blank'>here</a>"
             },
 
   central_america: {title: 'Central America',
