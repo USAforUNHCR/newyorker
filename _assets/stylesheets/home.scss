@@ -67,6 +67,9 @@ header{
   width: 100%;
   color: white;
   text-align: left;
+  @media screen and (max-width: 700px){
+    text-align: center;
+  }
   background-color: #84696A;
   padding-left: 0.3em;
   font-family: serif;
@@ -90,6 +93,9 @@ header{
 #content-modal{
   font-size: 1.2em;
   top: 20vh;
+  @media screen and (max-width: 700px){
+    top: 5vh;
+  }
   max-width: 800px;
   margin: auto;
 }
@@ -146,5 +152,9 @@ footer{
   & img{
     height: 10em;
     padding: 2em;
+    @media screen and (max-width: 700px){
+      height: 6em;
+      padding: 1em;
+    }
   }
 }

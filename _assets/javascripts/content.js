@@ -33,7 +33,7 @@ var content = {
           },
 
   line: { title: 'Humanity at wait',
-          content: 'Refugees have three options when it comes to long-term solutions: They can stay in the country to which they fled, living in temporary refugee camps. They can return home once it is safe to do so. Or they can apply for resettlement in a third country. While most refugees would prefer to return home, it takes an average of 17 years for them to make it back. Yet, only a tiny fraction apply for resettlement in a third country -- about 150,000 of the 4.2 million Syrian refugees have applied. Those who apply in the U.S. -- a number totaling only about 22,000 in the past year -- must wait an average of 18 to 24 months for their application to be processed. The process includes thorough security vetting and extensive interviews with government and security officials.'
+          content: 'Refugees have three options when it comes to long-term solutions: They can stay in the country to which they fled, living in temporary refugee camps. They can return home once it is safe to do so. Or they can apply for resettlement in a third country. Most refugees would prefer to return home, so only a tiny fraction apply for resettlement in a third country -- about 150,000 of the 4.2 million Syrian refugees have applied. Those who apply in the U.S. -- a number totaling only about 22,000 in the past year -- must wait an average of 18 to 24 months for their <a href="https://www.whitehouse.gov/blog/2015/11/20/infographic-screening-process-refugee-entry-united-states" target="_blank">application to be processed.</a> The process includes thorough security vetting and extensive interviews with government and security officials. In all, refugees are uprooted from their lives for an average of 17 years.'
         },
 
   tank: { title: 'War and Conflict',
@@ -52,7 +52,7 @@ var content = {
             content: 'Despite their lack of resources and the obstacles to continuing their training, some refugee athletes, like Central African Republic national champion long jumper and high jumper <a href="http://tracks.unhcr.org/2015/10/as-war-drags-on-athletes-cry-foul/" target="_blank">William Kopati</a>, are holding onto their Olympic dreams. William lives in Mole camp in the Democratic Republic of Congo, along with a few other high-level athletes, including professional soccer stars and a national karate champion.<br><br>Until this year, refugees could not compete in the Olympics because they did not have a country to represent. All of that changed in October, 2015 when Thomas Bach, president of the International Olympic Committee, <a href="http://www.olympic.org/news/refugee-athletes-on-the-road-to-rio/247613" target="_blank">announced</a> that refugee athletes would be allowed to compete in the 2016 summer games in Rio: "Having no national team to belong to, having no flag to march behind, having no national anthem to be played, these refugee athletes will be welcomed to the Olympic Games with the Olympic flag and with the Olympic anthem," he said. The IOC is partnering with national Olympic organizations to identify potential Olympians who have been forced to flee their homes and work with them to continue their training.'},
 
   mediterranean: {title: 'Mediterranean Sea',
-                  content: 'In 2015, more than one million refugees arrived in Europe by sea, making the dangerous journey across the Mediterranean in small rubber boats packed with more than 50 people. In just one week in December, <a href="https://www.youtube.com/watch?v=JBtYYMPe3yA" target="_blank">an average of 2,757 people arrived by sea in Greece alone every day.</a><br><br>The Things They Carried: Four Syrian refugees explain why they have no choice but to take to the sea – and reveal the few things they’ll have with them. (See the <a href="http://www.theguardian.com/world/ng-interactive/2015/sep/04/syrian-refugees-pack-for-the-crossing-to-europe-crisis" target="_blank">Guardian’s coverage.</a>)'
+                  content: 'In 2015, more than one million refugees arrived in Europe by sea, making the dangerous journey across the Mediterranean in small rubber boats packed with more than 50 people. In just one week in December, <a href="https://www.youtube.com/watch?v=JBtYYMPe3yA" target="_blank">an average of 2,757 people arrived by sea in Greece alone every day.</a>'
                 },
 
   raft: {title: 'Atlantic Ocean',
@@ -69,5 +69,9 @@ var content = {
 
   central_america: {title: 'Central America',
                     content: 'Refugee children from Central America, mainly El Salvador, Guatemala and Honduras, are hitching rides on backs of trains and crawling through tunnels, desperate to reach the United States to escape gang violence, trafficking and other horrors of life in their home countries. Many of these children travel alone, unaccompanied by parents or relatives and are extremely vulnerable to abuse.'
-                    }
+                    },
+
+  dinghy: {title: 'The Things They Carried',
+          content: '<a href="http://www.theguardian.com/world/ng-interactive/2015/sep/04/syrian-refugees-pack-for-the-crossing-to-europe-crisis" target="_blank">Four Syrian refugees explain why they have no choice but to take to the sea – and reveal the few things they’ll have with them.'
+          }                    
 }
